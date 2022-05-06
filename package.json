@@ -15,7 +15,7 @@
     "mern",
     "react"
   ],
-  "author": "Vladilen Minin <vladilen.m@yandex.ru>",
+  "author": "James",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -24,7 +24,7 @@
     "express-validator": "^6.3.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.1",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "concurrently": "^5.0.2",
